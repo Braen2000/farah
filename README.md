@@ -2,3 +2,4 @@
 this is  a website skripsi 
 - membuat halaman beranda / index
 - membuat halaman login
+- membuat halaman functions
